@@ -23,3 +23,4 @@ const fareTripler = fare => fare * 3
 function selectDifferentDrivers(array1, function1) {
     return function1(array1)
 }
+
